@@ -1,25 +1,24 @@
 # EcoValuePredictor ♻️
 ## About The Project
-This is a simple Java-based project that helps a user compute the value of the waste materials they are throwing away, such as plastic, paper, and metal. It also provides a user with a few ideas on how to reuse the waste.
+The project is a simple Java-based project that helps the user calculate the value of the waste materials they are throwing away. The project will also give the user a few ideas on how they can reuse the waste materials.
 
 ## Why I Made This Project
-I have observed that, in our day-to-day lives, people are throwing away a lot of waste without realizing that they can reuse or even sell them. So, I thought of making this small system to create awareness.
+The project was made because I have observed that in our daily lives, people are throwing away a lot of waste without knowing that they can reuse or even sell these. So, I thought of making this small project to create awareness among the public.
 
 ## Features
-- Calculate the value of the waste
-- Give a few ideas on reusing the waste
-- Additional message for a large amount of items
-- Simple command line-based program
+- The project will be able to calculate the value of the waste.
+- The project will be able to give the user a few ideas on how they can reuse the waste.
+- The project will be able to give the user an additional message if they are throwing away a lot of items.
+- The project will be a simple command line-based program.
 
 ## Technologies Used
-- Java (Various concepts of Core Java)
+- Java
+- Various concepts of Core Java
 
 ## How To Run
-1. Open terminal in the project directory
-2. Compile all the .java files
-   `javac *.java`
-3. Run the program
-   `java MainApp`
+- First, open the terminal in the project directory.
+- Then, compile all the .java files.
+- After that, run the program.
 
 ## Example Input
 plastic  
@@ -31,6 +30,6 @@ Estimated Value: ₹110
 Reuse Idea: You can make bottles, planters or eco-bricks.
 
 ## Improvements To Be Made In The Future
-- More types of wastes to be added
-- Using a file for better predictions
-- GUI-based program
+- Add more types of waste.
+- Using a file for better predictions.
+- GUI-based program.
