@@ -1,4 +1,3 @@
-# EcoValuePredictor
 # EcoValuePredictor ♻️
 ## About The Project
 This is a simple Java-based project that helps a user compute the value of the waste materials they are throwing away, such as plastic, paper, and metal. It also provides a user with a few ideas on how to reuse the waste.
